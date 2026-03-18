@@ -1,3 +1,4 @@
+-- Active: 1769111943353@@127.0.0.1@5432@db_blog1
 INSERT INTO authors (id, name, slug, bio, avatar_url)
 VALUES
   ('1b8e6eb6-9104-4d72-bf0f-cfd94ff6b287', 'Nick Brennan', 'nick-brennan', 'Sports analytics writer focused on betting edges and model transparency.', 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80'),
